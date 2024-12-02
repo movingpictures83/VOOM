@@ -1,0 +1,2 @@
+Prefix plugins/VOOM/example/
+Plugin VOOM inputfile dgel.rds outputfile voom.rds
